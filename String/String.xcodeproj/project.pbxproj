@@ -473,6 +473,7 @@
 				7122E7051970EB93006A1D10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7122E7061970EB93006A1D10 /* Build configuration list for PBXNativeTarget "StringTests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +482,7 @@
 				7122E7081970EB93006A1D10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

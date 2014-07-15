@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:String/String.xcodeproj">
+      location = "group:replaceString/replaceString.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:HelloWorld/HelloWorld.xcodeproj">
+      location = "group:String/String.xcodeproj">
    </FileRef>
 </Workspace>

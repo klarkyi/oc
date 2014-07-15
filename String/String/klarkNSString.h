@@ -9,7 +9,8 @@
 #import <Foundation/Foundation.h>
 
 @interface klarkNSString : NSObject
--(NSString *)extractString:(NSString *)str range:(NSRange *)rangenum;
+-(NSString *)extractString:(NSString *)str;
+-(NSString *)replacefirstblank:(NSString *)str1 string:(NSString *)str2;
 
 
 @end
