@@ -1,0 +1,1097 @@
+TreplaceString
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist
+cSymLink /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+cProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString normal armv7
+cLd /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString normal arm64
+cLd /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString normal armv7s
+cCreateUniversalBinary /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString normal armv7\ armv7s\ arm64
+cCopyStringsFile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj/InfoPlist.strings replaceString/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/klarkyi/Desktop/oc/replaceString/replaceString/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app /Users/klarkyi/Desktop/oc/replaceString/replaceString/Images.xcassets
+cProcessInfoPlistFile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist
+cGenerateDSYMFile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+cStripping /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+cSetOwnerAndGroup klarkyi:staff /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+cSetMode u+w,go-w,a+rX /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+cProcessProductPackaging /Users/klarkyi/Library/MobileDevice/Provisioning\ Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision
+cTouch /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent
+cCodeSign /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+cValidate /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+cTouch /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c0000000053BDFB1C0000000000000094
+t1404959516
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c0000000053BDFB1C0000000000000096
+t1404959516
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053BDFB1C000000000000036B
+t1404959516
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053BDFB1D000000000000019E
+t1404959517
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053BDFB1F000000000063A500
+t1404959519
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053BDFB1F000000000079C660
+t1404959519
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053BDFB1F00000000004D7BC0
+t1404959519
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053BDFB1F0000000000433410
+t1404959519
+s4404240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053BDFB200000000000306EF0
+t1404959520
+s3174128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053BDFB1F000000000006DCD0
+t1404959519
+s449744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053BDFB210000000000A90C10
+t1404959521
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053BDFB2100000000000417E0
+t1404959521
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053BDFB220000000000649DB0
+t1404959522
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053BDFB210000000000186D60
+t1404959521
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053BDFB270000000002759920
+t1404959527
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053BDFB2B0000000000385D50
+t1404959531
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c0000000053BDFB2E000000000001E300
+t1404959534
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c0000000053BDFB2E000000000055EFE0
+t1404959534
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c0000000053BDFB2E000000000002A880
+t1404959534
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000053BDFB2E00000000000458C0
+t1404959534
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000053BDFB2E000000000003E3E0
+t1404959534
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c0000000053BDFB2E000000000002B130
+t1404959534
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000053BDFB2F00000000000E1FD0
+t1404959535
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000053BDFB2E00000000000A2A70
+t1404959534
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c0000000053BDFB2E000000000001E8A0
+t1404959534
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+c0000000053BDFB2E000000000000BF00
+t1404959534
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c0000000053BDFB2E0000000000034380
+t1404959534
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c0000000053BDFB2E0000000000022F30
+t1404959534
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c0000000053BDFB2E000000000001E2A0
+t1404959534
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000053BDFB2E0000000000052520
+t1404959534
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000053BDFB2E0000000000015F20
+t1404959534
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c0000000053BDFB2F00000000001B90D0
+t1404959535
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000053BDFB2E000000000001F170
+t1404959534
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BDFB2E000000000002FCF0
+t1404959534
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c0000000053BDFB2F000000000008A150
+t1404959535
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000053BDFB2F00000000000B60E0
+t1404959535
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c0000000053BDFB2F0000000000078720
+t1404959535
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000053BDFB2F00000000000621F0
+t1404959535
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053BDFB2F00000000000BDAE0
+t1404959535
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000053BDFB2F0000000000039080
+t1404959535
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000053BDFB2F000000000003CBC0
+t1404959535
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000053BDFB2F000000000002CFE0
+t1404959535
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BDFB2F000000000001EB50
+t1404959535
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000053BDFB2F000000000001EED0
+t1404959535
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c0000000053BDFB2F00000000000236B0
+t1404959535
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000053BDFB2F00000000000AC500
+t1404959535
+s705792
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053BDFB670000000000000ADC
+t1404959591
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053BDFB67000000000000514C
+t1404959591
+s20812
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app
+t2
+s0
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM
+t1405416814
+s102
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+t1405416814
+s374
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Base.lproj/Main.storyboardc
+t1405416814
+s170
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist
+t1405416814
+s1282
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/PkgInfo
+t1405416814
+s8
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist
+t1405416813
+s150
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision
+t1405416814
+s11261
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj/InfoPlist.strings
+t1405416813
+s42
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+t1405416813
+s205604
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o
+t1405416813
+s10112
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o
+t1405416813
+s65904
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o
+t1405416813
+s55636
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o
+t1405416813
+s4452
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString
+t1405416813
+s58148
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString.LinkFileList
+c0000000053C4F56D00000000000003C0
+t1405416813
+s960
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o
+t1405416813
+s8312
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o
+t1405416813
+s61844
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o
+t1405416813
+s53468
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o
+t1405416813
+s3832
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString
+t1405416813
+s57648
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString.LinkFileList
+c0000000053C4F56D00000000000003C0
+t1405416813
+s960
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o
+t1405416813
+s8312
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o
+t1405416813
+s61844
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o
+t1405416813
+s53468
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o
+t1405416813
+s3832
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString
+t1405416813
+s57652
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString.LinkFileList
+c0000000053C4F56D00000000000003C4
+t1405416813
+s964
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_dependencies.txt
+t1405416813
+s453
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_generated_info.plist
+t1405416813
+s181
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent
+t1405416814
+s511
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch
+t1405416813
+s118424
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch
+t1405416813
+s95808
+
+N/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch
+t1405416813
+s95808
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/Base.lproj/Main.storyboard
+c0000000053C4DAEC0000000000002371
+t1405410028
+s9073
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/Images.xcassets
+c0000000053C4F51200000000000000AA
+t1405416722
+s170
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/en.lproj/InfoPlist.strings
+c0000000053C3BA0F000000000000002D
+t1405336079
+s45
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+c0000000053C4D7F8000000000000016D
+t1405409272
+s365
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+c0000000053C4DFB20000000000000649
+t1405411250
+s1609
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+c0000000053C3BA0F0000000000000122
+t1405336079
+s290
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+c0000000053C3BA0F00000000000007E9
+t1405336079
+s2025
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.h
+c0000000053C4DA4500000000000001C1
+t1405409861
+s449
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+c0000000053C4D9F70000000000000534
+t1405409783
+s1332
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+c0000000053C3BA0F000000000000015E
+t1405336079
+s350
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist
+c0000000053C4F44F0000000000000637
+t1405416527
+s1591
+
+N/Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch
+c0000000053C3BA0F0000000000000158
+t1405336079
+s344
+
+N/Users/klarkyi/Library/MobileDevice/Provisioning Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision
+c0000000053BE02780000000000002BFD
+t1404961400
+s11261
+
+CBuild AST from /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+r0
+
+CBuild AST from /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+r0
+
+CBuild AST from /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+r0
+
+CBuild AST from /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies774a27ed2c75b941^53033ded2c75b941^---0#1#1#--18"Check dependencies36"B909E45A-D987-42AF-9119-97538D0961F5-
+
+CCodeSign /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+s427109614.102689
+e427109614.329425
+r1
+xCodeSign
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"CodeSign DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app154"CodeSign DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app4a5d1aee2c75b941^505654ee2c75b941^---0#0#1#-19%DVTDocumentLocation2@193"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/0000000000000000^1406"CodeSign DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app    cd /Users/klarkyi/Desktop/oc/replaceString    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: sng tencent (LMSX2PSDM4)" and provisioning profile "tencent sng" (47E2A03C-9096-42FE-A39B-6EECA4AE5577)    /usr/bin/codesign --force --sign 3E1551F1359ED7419D68362A6AEFB4249B3FD138 --resource-rules=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist --entitlements /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app36"5289B070-1960-4890-B8DE-A528FE1167B9-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileAssetCatalog /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app /Users/klarkyi/Desktop/oc/replaceString/replaceString/Images.xcassets
+s427109613.674942
+e427109613.708384
+r1
+xCompileAssetCatalog
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Icon-120.png
+o/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection195"CompileAssetCatalog DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app replaceString/Images.xcassets195"CompileAssetCatalog DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app replaceString/Images.xcassetsb1deaced2c75b941^4f59b5ed2c75b941^-482"/* com.apple.actool.compilation-results *//Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Icon-120.png/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@77"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/Images.xcassets/0000000000000000^1434"CompileAssetCatalog DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app replaceString/Images.xcassets    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_generated_info.plist --platform iphoneos --minimum-deployment-target 6.0 --target-device iphone --compress-pngs --compile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app /Users/klarkyi/Desktop/oc/replaceString/replaceString/Images.xcassets36"06EADE83-ED04-49FC-9C28-28012EE79163-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.512771
+e427109613.579228
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m293"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o replaceString/klark.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler496883ed2c75b941^3c4b94ed2c75b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m0000000000000000^4794"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o replaceString/klark.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/arm64 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o36"4ABB2E90-3C55-4921-B768-62D9D5D1FB84-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.470875
+e427109613.585058
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m315"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o replaceString/klarkAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3bac78ed2c75b941^c1c695ed2c75b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m0000000000000000^4860"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o replaceString/klarkAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/arm64 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o36"F360F1BE-B7B5-41B4-8D03-D54ADB2E7BC3-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.489006
+e427109613.613195
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.h
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m321"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o replaceString/klarkViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6a4f7ded2c75b941^7bfa9ced2c75b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m0000000000000000^4878"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o replaceString/klarkViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/arm64 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o36"950EF76C-EDC9-4253-B51F-714697C8ED9C-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.495990
+e427109613.550966
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m291"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o replaceString/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compileraf7b7fed2c75b941^4e0c8ded2c75b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m0000000000000000^4788"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o replaceString/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/arm64 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o36"CF3E4C10-CC49-4862-A351-13AD8B9D4622-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.309207
+e427109613.381612
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m293"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o replaceString/klark.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere4484fed2c75b941^39ed61ed2c75b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m0000000000000000^4794"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o replaceString/klark.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o36"8F51454E-9EF3-4518-BEBB-B06F6A11B184-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.306710
+e427109613.416045
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m315"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o replaceString/klarkAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ca74eed2c75b941^e8826aed2c75b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m0000000000000000^4860"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o replaceString/klarkAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o36"28408E14-2E15-457C-A268-3797CD8538F1-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.307155
+e427109613.429462
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.h
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m321"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o replaceString/klarkViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1ec44eed2c75b941^c6166eed2c75b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m0000000000000000^4878"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o replaceString/klarkViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o36"395AF660-1132-4257-897E-D949CFD81148-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.307743
+e427109613.356461
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m291"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o replaceString/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4e74eed2c75b941^af415bed2c75b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m0000000000000000^4788"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o replaceString/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o36"8FE05A8F-4BF6-445F-AC2E-1D35D0BBBDC1-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.429849
+e427109613.494211
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m295"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o replaceString/klark.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerba2c6eed2c75b941^c6867eed2c75b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m0000000000000000^4801"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o replaceString/klark.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7s -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o36"FC4E747C-3494-47EA-8FCB-36140FC35A24-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.357184
+e427109613.488738
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m317"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o replaceString/klarkAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler42945bed2c75b941^4b3b7ded2c75b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m0000000000000000^4867"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o replaceString/klarkAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7s -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o36"C79CB9CD-A330-47AF-8F90-81C08C9BA553-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.383083
+e427109613.512308
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.h
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klark.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m323"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o replaceString/klarkViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6c4262ed2c75b941^79e582ed2c75b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m0000000000000000^4885"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o replaceString/klarkViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7s -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkViewController.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o36"F4481A6D-014B-47F2-96F9-CFD7190D7428-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.417062
+e427109613.470591
+r1
+xCompileC
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/klarkAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m293"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o replaceString/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerdded6aed2c75b941^317c78ed2c75b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m0000000000000000^4795"CompileC DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o replaceString/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7s -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -include /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.dia -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/main.m -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o36"1AACEE12-91E6-4847-8007-1EA16894B05B-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCompileStoryboard /Users/klarkyi/Desktop/oc/replaceString/replaceString/Base.lproj/Main.storyboard
+s427109613.674439
+e427109614.052494
+r1
+xCompileStoryboard
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard replaceString/Base.lproj/Main.storyboard58"CompileStoryboard replaceString/Base.lproj/Main.storyboard80bbaced2c75b941^b5700dee2c75b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/Base.lproj/Main.storyboard0000000000000000^899"CompileStoryboard replaceString/Base.lproj/Main.storyboard    cd /Users/klarkyi/Desktop/oc/replaceString    export IBSC_MINIMUM_COMPATIBILITY_VERSION=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Base.lproj/Main.storyboardc /Users/klarkyi/Desktop/oc/replaceString/replaceString/Base.lproj/Main.storyboard36"C4B11920-966E-43D5-8A13-7CD4B5157087-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCopyStringsFile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj/InfoPlist.strings replaceString/en.lproj/InfoPlist.strings
+s427109613.674298
+e427109613.675699
+r1
+xCopyStringsFile
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj/InfoPlist.strings
+xreplaceString/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy replaceString/en.lproj/InfoPlist.strings229"CopyStringsFile DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj/InfoPlist.strings replaceString/en.lproj/InfoPlist.strings3eb3aced2c75b941^55fbaced2c75b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/en.lproj/InfoPlist.strings0000000000000000^794"CopyStringsFile DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj/InfoPlist.strings replaceString/en.lproj/InfoPlist.strings    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/en.lproj -- replaceString/en.lproj/InfoPlist.strings36"FE8CF915-D987-4508-B277-C75DEA9079AB-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist
+s427109613.239118
+e427109613.240261
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Copy DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist298"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist41493ded2c75b941^60e83ded2c75b941^---0#0#1#-19%DVTDocumentLocation2@212"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist0034dcedddffdf42^1080"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app36"AC974F09-53E9-4168-B034-6AA79FD041D6-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CCreateUniversalBinary /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString normal armv7\ armv7s\ arm64
+s427109613.664187
+e427109613.673804
+r1
+xCreateUniversalBinary
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection223"Create universal binary /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString209"CreateUniversalBinary DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString normal armv7\ armv7s\ arm64d61eaaed2c75b941^457faced2c75b941^---0#0#1#-19%DVTDocumentLocation2@206"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString0034dcedddffdf42^1478"CreateUniversalBinary DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString normal armv7\ armv7s\ arm64    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString -output /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString36"E712ECD4-6B79-428F-BF70-E845EAB2521A-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CGenerateDSYMFile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+s427109614.055455
+e427109614.080495
+r1
+xGenerateDSYMFile
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection187"Generate /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM315"GenerateDSYMFile DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceStringff3f0eee2c75b941^fa9b14ee2c75b941^---0#0#1#-19%DVTDocumentLocation2@185"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM0034dcedddffdf42^1033"GenerateDSYMFile DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM36"36CCE981-1534-4D22-AE1D-703798E6CD30-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CLd /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString normal arm64
+s427109613.619021
+e427109613.659430
+r1
+xLd
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString
+xnormal
+xarm64
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString.LinkFileList
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkAppDelegate.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klarkViewController.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/main.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/klark.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection244"Link /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString215"Ld DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString normal arm648e8f9eed2c75b941^52d1a8ed2c75b941^---0#0#1#--1964"Ld DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString normal arm64    cd /Users/klarkyi/Desktop/oc/replaceString    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -filelist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString_dependency_info.dat -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/arm64/replaceString36"46A6A2D0-F046-4F7D-95D6-FCD29D71BC1C-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CLd /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString normal armv7
+s427109613.616552
+e427109613.663217
+r1
+xLd
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString
+xnormal
+xarmv7
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString.LinkFileList
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkAppDelegate.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klarkViewController.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/main.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/klark.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection244"Link /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString215"Ld DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString normal armv7e9ef9ded2c75b941^edd7a9ed2c75b941^---0#0#1#--1964"Ld DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString normal armv7    cd /Users/klarkyi/Desktop/oc/replaceString    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -filelist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString_dependency_info.dat -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7/replaceString36"DAB79384-D62A-459B-8753-5341BD59C6A4-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CLd /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString normal armv7s
+s427109613.619528
+e427109613.662831
+r1
+xLd
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString
+xnormal
+xarmv7s
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString.LinkFileList
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkAppDelegate.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klarkViewController.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/main.o
+d/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/klark.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection245"Link /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString217"Ld DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString normal armv7seeaf9eed2c75b941^e2afa9ed2c75b941^---0#0#1#--1970"Ld DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString normal armv7s    cd /Users/klarkyi/Desktop/oc/replaceString    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos -filelist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString_dependency_info.dat -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/Objects-normal/armv7s/replaceString36"534C02B1-8606-4F60-B7FD-785FD7614A2F-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CProcessInfoPlistFile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist
+s427109614.053205
+e427109614.054968
+r1
+xProcessInfoPlistFile
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist
+x/Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist216"ProcessInfoPlistFile DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist replaceString/replaceString-Info.plist60ae0dee2c75b941^7f130eee2c75b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist0000000000000000^1508"ProcessInfoPlistFile DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist replaceString/replaceString-Info.plist    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Info.plist -genpkginfo /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/ResourceRules.plist -additionalcontentfile /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/assetcatalog_generated_info.plist -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/Info.plist36"A171FF2C-3EC5-4AA5-939C-8C0ED4BD5057-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.246908
+e427109613.302003
+r1
+xProcessPCH
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch
+xreplaceString/replaceString-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile replaceString/replaceString-Prefix.pch297"ProcessPCH DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9523fed2c75b941^b9504ded2c75b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch0000000000000000^4549"ProcessPCH DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/arm64 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.dia -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.d -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-aomotxuvqfaqsufpcqmmpkfiqbht/replaceString-Prefix.pch.pch36"FCD1B7ED-4E97-4AD8-870B-6742D0FAB788-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.246134
+e427109613.300265
+r1
+xProcessPCH
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch
+xreplaceString/replaceString-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile replaceString/replaceString-Prefix.pch297"ProcessPCH DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d723fed2c75b941^addf4ced2c75b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch0000000000000000^4549"ProcessPCH DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7 -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.dia -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.d -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-bkizjbaalmzsbgdqklpufgehakdd/replaceString-Prefix.pch.pch36"11CD271F-0CFB-4FF3-AE23-DF3B458D834B-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427109613.246543
+e427109613.305996
+r1
+xProcessPCH
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch
+xreplaceString/replaceString-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile replaceString/replaceString-Prefix.pch298"ProcessPCH DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler506e3fed2c75b941^11574eed2c75b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch0000000000000000^4552"ProcessPCH DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klarkyi/Desktop/oc/replaceString    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/klarkyi/Desktop/oc/replaceString/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-generated-files.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-own-target-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-all-target-headers.hmap -iquote /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString-project-headers.hmap -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources/armv7s -I/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/DerivedSources -F/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos --serialize-diagnostics /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.dia -MMD -MT dependencies -MF /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.d -c /Users/klarkyi/Desktop/oc/replaceString/replaceString/replaceString-Prefix.pch -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/PrecompiledHeaders/replaceString-Prefix-eybyotaxezmehnbvpiarzooqondn/replaceString-Prefix.pch.pch36"81A0847C-7DD8-4D60-8318-53BE380F7313-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Index/PrecompiledHeaders/replaceString-Prefix-cgnsaqtwntgzxsgiumutnffcjfcf_ast/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Index/PrecompiledHeaders/replaceString-Prefix-dwoqvkswdwfdsvbqfoydhbnbfrur_ast/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Index/PrecompiledHeaders/replaceString-Prefix-eajgisnablihxofabamzfyubiaua_ast/replaceString-Prefix.pch.pch replaceString/replaceString-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent
+s427109614.101153
+e427109614.102317
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection329"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent329"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcente5f019ee2c75b941^1a321aee2c75b941^---0#0#1#-19%DVTDocumentLocation2@231"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent0034dcedddffdf42^976"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/IntermediateBuildFilesPath/replaceString.build/Release-iphoneos/replaceString.build/replaceString.xcent36"5ECFFCB5-B54E-4C87-B768-46EEA6FB6EF5-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CProcessProductPackaging /Users/klarkyi/Library/MobileDevice/Provisioning\ Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision
+s427109614.099210
+e427109614.100513
+r1
+xProcessProductPackaging
+x/Users/klarkyi/Library/MobileDevice/Provisioning Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection306"ProcessProductPackaging /Users/klarkyi/Library/MobileDevice/Provisioning\ Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision306"ProcessProductPackaging /Users/klarkyi/Library/MobileDevice/Provisioning\ Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision547319ee2c75b941^e0bb19ee2c75b941^---0#0#1#-19%DVTDocumentLocation2@217"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision0034dcedddffdf42^904"ProcessProductPackaging /Users/klarkyi/Library/MobileDevice/Provisioning\ Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/klarkyi/Library/MobileDevice/Provisioning\ Profiles/47E2A03C-9096-42FE-A39B-6EECA4AE5577.mobileprovision -o /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/embedded.mobileprovision36"1A34AC12-DD8E-4B98-94BA-2E70B8E5ABCD-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CSetMode u+w,go-w,a+rX /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+s427109614.094585
+e427109614.098738
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"SetMode u+w,go-w,a+rX DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app167"SetMode u+w,go-w,a+rX DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.appe14418ee2c75b941^994819ee2c75b941^---0#0#1#-19%DVTDocumentLocation2@193"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/0000000000000000^622"SetMode u+w,go-w,a+rX DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/chmod -RH u+w,go-w,a+rX /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app36"262CCE59-A2D5-440E-8036-6BAC0BBBAF6D-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CSetOwnerAndGroup klarkyi:staff /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+s427109614.087038
+e427109614.093781
+r1
+xSetOwnerAndGroup
+xklarkyi:staff
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"SetOwnerAndGroup klarkyi:staff DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app176"SetOwnerAndGroup klarkyi:staff DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.appe25916ee2c75b941^040318ee2c75b941^---0#0#1#-19%DVTDocumentLocation2@193"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/0000000000000000^636"SetOwnerAndGroup klarkyi:staff DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/sbin/chown -RH klarkyi:staff /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app36"DB5D8E25-4824-45FF-A595-656C388B2B36-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CStripping /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+s427109614.080916
+e427109614.086544
+r1
+xStripping
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Stripping DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString169"Stripping DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString15c414ee2c75b941^522916ee2c75b941^---0#0#1#-19%DVTDocumentLocation2@206"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString0000000000000000^702"Stripping DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/replaceString36"3179D474-2041-40B4-BE57-CF998B55A3CD-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CSymLink /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+s427109613.239279
+e427109613.245193
+r1
+xSymLink
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Process /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app287"SymLink DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app7f4e3ded2c75b941^a0c53eed2c75b941^---0#0#1#--899"SymLink DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/ln -sf /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app36"B30FB50B-D3F6-492A-8DA7-6F819F535C58-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CTouch /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM
+s427109614.357519
+e427109614.361705
+r1
+xTouch
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection184"Touch /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM144"Touch DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM79935bee2c75b941^359a5cee2c75b941^---0#0#1#--581"Touch DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/BuildProductsPath/Release-iphoneos/replaceString.app.dSYM36"7F95DB1F-CE6C-4CEF-9B76-FCD02435D856-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+
+CTouch /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+r0
+
+CValidate /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+s427109614.329982
+e427109614.356981
+r1
+xValidate
+x/Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Validate DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app154"Validate DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.appbd8a54ee2c75b941^e5635bee2c75b941^---0#0#1#-19%DVTDocumentLocation2@193"file:///Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app/0000000000000000^739"Validate DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app    cd /Users/klarkyi/Desktop/oc/replaceString    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export PRODUCT_TYPE=com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/klarkyi/Desktop/oc/replaceString/DerivedData/replaceString/Build/Intermediates/ArchiveIntermediates/replaceString/InstallationBuildProductsLocation/Applications/replaceString.app36"195B7CD4-BEB3-4F57-B239-C30ED2A116D8-
+b658FB90E-991D-48BF-BADD-6666C5B4231B
+

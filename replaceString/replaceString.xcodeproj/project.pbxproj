@@ -35,6 +35,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7166E172197520600072FC6C /* Icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-80.png"; sourceTree = "<group>"; };
+		7166E173197520760072FC6C /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
+		7166E174197520860072FC6C /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-58.png"; sourceTree = "<group>"; };
+		7166E175197521490072FC6C /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		7166E1761975242A0072FC6C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		7166E177197524420072FC6C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		7166E18C197525350072FC6C /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		7166E18D1975255D0072FC6C /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		7166E18E197525760072FC6C /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		7166E18F197525880072FC6C /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
+		7166E190197525BD0072FC6C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		7166E19119752A1D0072FC6C /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-58.png"; sourceTree = "<group>"; };
 		71AC40031973F18F003A2CCF /* replaceString.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = replaceString.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71AC40061973F18F003A2CCF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		71AC40081973F18F003A2CCF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -85,6 +97,18 @@
 		71AC3FFA1973F18F003A2CCF = {
 			isa = PBXGroup;
 			children = (
+				7166E19119752A1D0072FC6C /* Icon-58.png */,
+				7166E190197525BD0072FC6C /* Default.png */,
+				7166E18F197525880072FC6C /* Icon-29.png */,
+				7166E18E197525760072FC6C /* Icon@2x.png */,
+				7166E18D1975255D0072FC6C /* Icon.png */,
+				7166E18C197525350072FC6C /* Icon-76.png */,
+				7166E177197524420072FC6C /* Default@2x.png */,
+				7166E1761975242A0072FC6C /* Default-568h@2x.png */,
+				7166E175197521490072FC6C /* Icon.png */,
+				7166E174197520860072FC6C /* Icon-58.png */,
+				7166E173197520760072FC6C /* Icon-120.png */,
+				7166E172197520600072FC6C /* Icon-80.png */,
 				71AC400C1973F18F003A2CCF /* replaceString */,
 				71AC402B1973F18F003A2CCF /* replaceStringTests */,
 				71AC40051973F18F003A2CCF /* Frameworks */,
@@ -381,12 +405,15 @@
 		71AC40361973F18F003A2CCF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "replaceString/replaceString-Prefix.pch";
 				INFOPLIST_FILE = "replaceString/replaceString-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "47E2A03C-9096-42FE-A39B-6EECA4AE5577";
+				SDKROOT = iphoneos7.1;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -394,12 +421,15 @@
 		71AC40371973F18F003A2CCF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "replaceString/replaceString-Prefix.pch";
 				INFOPLIST_FILE = "replaceString/replaceString-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "47E2A03C-9096-42FE-A39B-6EECA4AE5577";
+				SDKROOT = iphoneos7.1;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -463,6 +493,7 @@
 				71AC40371973F18F003A2CCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71AC40381973F18F003A2CCF /* Build configuration list for PBXNativeTarget "replaceStringTests" */ = {
 			isa = XCConfigurationList;
@@ -471,6 +502,7 @@
 				71AC403A1973F18F003A2CCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

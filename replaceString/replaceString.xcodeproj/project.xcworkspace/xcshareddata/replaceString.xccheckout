@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD35B442-CBDF-4397-BB83-4FDAFC4BC16B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>replaceString</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DE581A8-3B91-4341-A088-924F576828C0</key>
+		<string>https://github.com/klarkyi/oc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>replaceString/replaceString.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DE581A8-3B91-4341-A088-924F576828C0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/klarkyi/oc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DE581A8-3B91-4341-A088-924F576828C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DE581A8-3B91-4341-A088-924F576828C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
